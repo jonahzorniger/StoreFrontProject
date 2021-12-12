@@ -51,6 +51,7 @@ h1{
     list-style: none;
     width: 400px;
 }
+
 #text{
     padding-left: 5px;
     padding-right:5px;
@@ -58,6 +59,7 @@ h1{
     margin-top:15px;
     position:relative;
 }
+
 #footer-links{
     text-align:center;
     width: 100%;
@@ -83,32 +85,3 @@ html body{
 p{
     color:white;
 }
-
-
-
-
-
-
-
-/*Nav Bars*/
-
-
-
-
-
-
-
-
-
-/*Main Section*/
-
-
-
-
-
-
-
-
-
-
-/*Footer*/
